@@ -15,7 +15,7 @@ The application is running at this url: https://php-laravel.is-easy-on-scalingo.
 
 ## Deploy in One Click
 
-[![Deploy to Scalingo](https://cdn.scalingo.com/deploy/button.svg)](https://dashboard.scalingo.com/create/app?source=https://github.com/Scalingo/sample-php-laravel#master)
+[![Deploy to Scalingo](https://cdn.scalingo.com/deploy/button.svg)](https://dashboard.scalingo.com/create/app?source=https://github.com/Sc-Samir/sample-php-laravel#master)
 
 ## Running Locally
 
